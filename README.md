@@ -1,6 +1,5 @@
 # ssh-agent-script.sh
 
-Created: Jan 28, 2021 12:59 AM
 
 Firstly copy ssh-key to the remote machine:
 
